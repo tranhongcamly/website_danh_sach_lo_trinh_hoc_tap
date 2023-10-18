@@ -1,0 +1,29 @@
+h3, p{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 30px auto;
+    color: black;
+    width: 1000px;
+    text-align: left;
+}
+.body_top{
+    padding: 16px 8px;
+    background-color: #5dc2a7;
+    border: 1px solid #5dc2a7;
+    border-radius: 5px;
+}
+.body_bottom{
+    padding: 0px 15px;
+    background-color: #ededed;
+    padding-bottom: 20px;
+}
+.div_list{
+    padding: 13px 0px 5px 0px;
+    border-bottom: 1px dashed #8f8f8f;
+}
+.div_list ul{
+    list-style: none;
+    padding: 0;
+}
